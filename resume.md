@@ -219,3 +219,52 @@
 
 %-------------------------------------------
 \end{document}
+
+
+# real resume
+Shreyas Motupalli
+(610)-412-6299 | motupalli.s@northeastern.edu | smotupalli0307@gmail.com | West Chester, PA
+Education
+The Hill School Pottstown, PA
+High School Diploma August 2021 – June 2025
+Cumulative GPA (Weighted): 4.3
+Northeastern University Boston, MA
+Bachelor of Science in Computer Science August 2025 – May 2029
+Expected Minor: Game Design
+Experience
+Engineering Volunteer Counselor March 2022 – June 2025
+Ricketts Center Pottstown, PA
+• Lead board game activities for children as part of local outreach program
+• Developed problem-solving, critical thinking, and teamwork skills by working with kids through engaging, and fun
+learning experiences
+Projects
+Computer Assembly July 2021 – September 2021
+• Researched components and many peripherals to build a custom desktop computer
+• Gained hands-on experience working with PC hardware
+• Expanded knowledge of computer component compatibility and functionality
+Keyboard Assembly October 2024
+• Designed and put together a custom silent mechanical 75% keyboard
+• Acquired real-world experience handling keyboard components
+• Enhanced understanding of keyboard architecture, sound-dampening techniques, and switch types
+Console Set-Up November 2017 – Present
+• Set up and used many consoles, including the Nintendo, multiple generations of PlayStation, and Xbox models
+• Familiarized with the software and hardware of multiple main brand consoles
+Arcade Hardware Experience May 2025 – Present
+• Gained experience configuring arcade sticks and arcade machines
+• Learned to reassemble arcade stick hardware, including buttons and gates
+Technology Student Association(TSA) September 2024 – April 2025
+• Reached state-level in the TSA Video Game Design competition as part of a team as a programmer, mainly focused
+on developing the game’s unique card system
+• A playable yet poor state version of the game found here: https://ay28.itch.io/clipd
+• Assisted The Hill School TSA board game team in the construction of their entry
+• Developed priceless collaboration, communication, and marketing skills while working with teams on large-scale
+team projects
+Independent Game Development May 2024 – Present
+• Programmed a Snake game in Python, enhancing knowledge of the language and its libraries for use in game
+development
+• Created a small parkour prototype, strengthening understanding of 3D development in Godot
+Technical Skills
+Languages: Java, Python, JavaScript, HTML/CSS, GDScript
+Frameworks: React
+Developer Tools: Godot, VS Code, Visual Studio
+Libraries: Pandas, NumPy, Matplotlib, sklearn, TensorFlow, pyngrok
